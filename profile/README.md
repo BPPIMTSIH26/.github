@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=B.P.+Poddar+Institute+of+Management+%26+Technology;Smart+India+Hackathon+2026+%E2%80%94+Engineering+Division" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=B.P.+Poddar+Institute+of+Management+%26+Technology;Smart+India+Hackathon+2026+%E2%80%94+Engineering+Division" alt="Typing SVG" />
 
 <br/>
 
