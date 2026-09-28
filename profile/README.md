@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=O+R+I+O+N;B.P.+Poddar+Institute+of+Management+%26+Technology;Smart+India+Hackathon+2026+-+Engineering+Division" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=O+R+I+O+N+6+9;B.P.+Poddar+Institute+of+Management+%26+Technology;Smart+India+Hackathon+2026+-+Engineering+Division" alt="Typing SVG" />
 <br/>
 
 [![Institution](https://img.shields.io/badge/BPPIMT-Kolkata%2C%20West%20Bengal-0d1117?style=for-the-badge&logo=google-maps&logoColor=58A6FF)](https://www.bppimt.ac.in)
 [![Affiliation](https://img.shields.io/badge/Affiliated-MAKAUT-0d1117?style=for-the-badge&logoColor=white)](https://makautwb.ac.in)
 [![Approved](https://img.shields.io/badge/Approved-AICTE-0d1117?style=for-the-badge&logoColor=white)](https://www.aicte-india.org)
-![Team](https://img.shields.io/badge/Team-ORION-F7DF1E?style=for-the-badge&logoColor=white)
+![Team](https://img.shields.io/badge/Team-ORION69-F7DF1E?style=for-the-badge&logoColor=white)
 [![SIH 2026](https://img.shields.io/badge/Smart%20India%20Hackathon-2026-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2w0IDJWMTdsMi0xIDItMiA0IDIgMi0yIDItMlY5bDQtMnoiLz48L3N2Zz4=)](https://www.sih.gov.in)
 
 <br/>
